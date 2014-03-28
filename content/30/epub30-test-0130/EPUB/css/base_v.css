@@ -6,3 +6,8 @@ body {
     color: black;
     background: white;        
 }
+
+.checkpoint{
+	color:red;
+	font-weibht: bold;
+}
