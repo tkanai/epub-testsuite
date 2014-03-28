@@ -1,5 +1,15 @@
 @charset "utf-8";
 
+h1 { color: rgb(0,90,156); }
+h2 { font-size: 140%; }
+h3 { font-size: 130%; }
+h4 { font-size: 120%; }
+
+.ctest h2, .ctest h3, .ctest h4, .ctest h5, .otest h2, .otest h3, .otest h4, .otest h5 {
+	font-size: 120%;
+	color: rgb(0,0,0);
+}
+
 body {
     font-family: arial, helvetica, sans-serif;
     color: black;
@@ -49,4 +59,32 @@ body {
 dl.info dt {
     font-weight: bold;
     margin-bottom: 1em;
+}
+
+nav#toc ol  {
+    list-style-type: none;
+}
+
+nav a {
+	text-decoration:none;
+	color:black;
+}
+
+.eval {
+	font-weight:bold;
+}
+
+.eval:before {
+	content:"→";
+}
+
+.conditional {
+	font-style: italic;
+}
+
+.content-eval{
+	border: medium solid green;
+}
+.content-target{
+	border: medium solid blue;
 }

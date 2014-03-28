@@ -37,7 +37,11 @@
 		<item href="xhtml/text-direction-001.xhtml" id="text-direction-001" media-type="application/xhtml+xml"/>
 		<item href="xhtml/text-direction-002.xhtml" id="text-direction-002" media-type="application/xhtml+xml"/>
 		<item href="xhtml/text-direction-003.xhtml" id="text-direction-003" media-type="application/xhtml+xml"/>
+		<item href="xhtml/text-direction-003a.xhtml" id="text-direction-003a" media-type="application/xhtml+xml"/>
 		<item href="xhtml/text-direction-004.xhtml" id="text-direction-004" media-type="application/xhtml+xml"/>
+		<item href="xhtml/text-direction-004a.xhtml" id="text-direction-004a" media-type="application/xhtml+xml"/>
+		<item href="xhtml/text-direction-0041.xhtml" id="text-direction-0041" media-type="application/xhtml+xml"/>
+		<item href="xhtml/text-direction-0041a.xhtml" id="text-direction-0041a" media-type="application/xhtml+xml"/>
 		<item href="xhtml/text-direction-005.xhtml" id="text-direction-005" media-type="application/xhtml+xml"/>
 		<item href="xhtml/headings-001.xhtml" id="headings-001" media-type="application/xhtml+xml"/>
 		<item href="xhtml/headings-002.xhtml" id="headings-002" media-type="application/xhtml+xml"/>
@@ -162,7 +166,11 @@
       <itemref idref="text-direction-001"/>
       <itemref idref="text-direction-002"/>
       <itemref idref="text-direction-003"/>
+      <itemref idref="text-direction-003a"/>
       <itemref idref="text-direction-004"/>
+      <itemref idref="text-direction-004a"/>
+      <itemref idref="text-direction-0041"/>
+      <itemref idref="text-direction-0041a"/>
       <itemref idref="text-direction-005"/>
       <itemref idref="headings-001"/>
       <itemref idref="headings-002"/>
