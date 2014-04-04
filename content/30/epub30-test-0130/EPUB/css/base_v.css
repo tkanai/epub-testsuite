@@ -9,5 +9,18 @@ body {
 
 .checkpoint{
 	color:red;
-	font-weibht: bold;
+	font-weight: bold;
+}
+
+span.charj{
+	display:inline-block;
+	width: 1em;
+	height: 1em;
+	background-image: url('../img/box.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.content-target img{
+	height:100%;
 }
